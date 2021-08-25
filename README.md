@@ -1,3 +1,3 @@
 # MyWikiAPI
 
-To install all modules needed for this application, use "npm install" 
+This application is an example for API and can fetch details from anywhere if they are available in database/server.
